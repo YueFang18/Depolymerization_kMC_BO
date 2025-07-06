@@ -1,0 +1,3 @@
+/Users/yueyue/CLionProjects/untitled3/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/yueyue/CLionProjects/untitled3/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/yueyue/CLionProjects/untitled3/cmake-build-debug/CMakeFiles/integrated_kmc.dir
